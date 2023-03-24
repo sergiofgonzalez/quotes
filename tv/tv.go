@@ -2,7 +2,7 @@ package tv
 
 var quotes = []string{
 	`Because some roads you shouldn't go down. Because maps used to say "There be dragons here". Now they don't. But that don't mean dragons aren't there.`,
-	`Do you have a ballpark? There is no park, and the team has relocated`,
+	`Do you have a ballpark? There is no park, and the team has relocated.`,
 	`Elegant weapons for a more civilized age`,
 }
 
